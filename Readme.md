@@ -76,4 +76,4 @@ to discuss what you would like to change.
 
 ## License
 
-[]
+[GPL-3.0]
