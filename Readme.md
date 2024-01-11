@@ -1,6 +1,6 @@
-[RU](github.com/homayk228/soucehome-protocol/Readme_rus.md) EN
+[RU](Readme_rus.md) EN
 
-# Foobar
+# SouceHome
 
 My implementation of smarthome protocol.
 

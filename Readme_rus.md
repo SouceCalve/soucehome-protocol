@@ -1,4 +1,4 @@
-RU [EN](github.com/homayk228/soucehome-protocol/Readme.md)
+RU [EN](Readme.md)
 
 # Soucehome
 
